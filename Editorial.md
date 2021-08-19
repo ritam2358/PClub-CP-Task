@@ -11,5 +11,5 @@ Now apply the same algorithm to the remaining lines as well.
 - Sort the array with respect to the x2 coordinate in increasing order.
 - Now chose the first element as the point where the first intersecting line is formed. 
 - Now iterate through the array and find the element where x1 > than the previous value of x2(from where the previous intersecting line was drawn).
-- Now this point becomes the place where another intersecting line is formed.
-- Repeat the algorithm
+- Now this point becomes the place from where another intersecting line is formed.
+- Repeat the algorithm from point 3.
