@@ -19,7 +19,7 @@ Each test case consists of two parts.
 
 First line contains one integer n (1 ≤ n ≤ 100) — the number of ***lines*** in each test case
 
-Followed by n lines each containing 3 integers x1, x2, y (0 ≤ x1, x2, y ≤ 10<sup>3</sup> ) — the coordinates of the endpoint of each ***line***. <br> (as the ***lines*** are parallel to x-axis, only one y coordinate is sufficient)
+Followed by n lines each containing 3 integers x1, x2, y (0 ≤ x1, x2, y ≤ 10<sup>2</sup> ) — the coordinates of the endpoint of each ***line***. <br> (as the ***lines*** are parallel to x-axis, only one y coordinate is sufficient)
 
 ### Output
 For each test case output in a separate line a single integer d — the minimum number of the ***lines*** parallel to y-axis needed to cut all the given ***lines*** which are parallel to the x-axis. 

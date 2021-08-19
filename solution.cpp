@@ -68,8 +68,8 @@ void mergeSort(int Arr[][2], int start, int end)
 int main()
 {
 
-    freopen("Test_Cases_Random.txt", "r", stdin);
-    freopen("output.txt", "w", stdout);
+    // freopen("Test_Cases_Random.txt", "r", stdin);
+    // freopen("output.txt", "w", stdout);
 
     int n, count = 0;
     int t;
