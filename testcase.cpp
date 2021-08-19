@@ -2,17 +2,17 @@
 using namespace std;
 
 // Define the number of test cases to generate
-#define RUN 100
+#define RUN 10
 
 // Define the range of the test data to be generated
-#define MAX 1000
+#define MAX 100
 
 // Define the maximum number of lines
-#define MAXROW 10000
+#define MAXROW 100
 
 int main()
 {
-    freopen("Test_Cases_Random.in", "w", stdout);
+    freopen("Test_Cases_Random.txt", "w", stdout);
 
     srand(time(NULL));
 

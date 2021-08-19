@@ -13,11 +13,11 @@ The lines are described in the following way:
 - (x2, y) - the right coordinate
 
 ### Input
-The first line contains one integer t (1 ≤ t ≤ 100) — the number of test cases. Then t test cases follow.
+The first line contains one integer t (1 ≤ t ≤ 10) — the number of test cases. Then t test cases follow.
 
 Each test case consists of two parts.
 
-First line contains one integer n (1 ≤ n ≤ 10<sup>4</sup>) — the number of ***lines*** in each test case
+First line contains one integer n (1 ≤ n ≤ 100) — the number of ***lines*** in each test case
 
 Followed by n lines each containing 3 integers x1, x2, y (0 ≤ x1, x2, y ≤ 10<sup>3</sup> ) — the coordinates of the endpoint of each ***line***. <br> (as the ***lines*** are parallel to x-axis, only one y coordinate is sufficient)
 
